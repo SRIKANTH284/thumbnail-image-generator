@@ -1,0 +1,2 @@
+streamlit
+rembg==2.0.49
