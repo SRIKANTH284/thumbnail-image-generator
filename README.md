@@ -1,1 +1,0 @@
-# thumbnail-image-generator
